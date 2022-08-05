@@ -116,17 +116,17 @@ header .user .post {
 }
 
 header .navbar {
-    width: 100%;
+    width: 70%;
 }
 
 header .navbar ul {
     list-style: none;
-    padding: 1rem 3rem;
+    padding: 1rem 2rem;
 }
 
 header .navbar ul li a {
     display: block;
-    padding: 1rem;
+    padding: 0.5rem;
     margin: 1.5rem 0;
     background: #333;
     color: #fff;
@@ -173,7 +173,7 @@ header .navbar ul li a:hover {
 }
 
 .Home p {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #eee;
     padding: 1rem 0;
 }
@@ -215,15 +215,15 @@ header .navbar ul li a:hover {
 }
 
 .About .row .counter .box {
-    width: 20rem;
+    width: 25rem;
     background: #222;
     text-align: center;
-    padding: 2rem;
-    margin: 2rem;
+    padding: 0.5rem;
+    margin: 1rem;
 }
 
 .About .row .counter .box span {
-    font-size: 4rem;
+    font-size: 2rem;
     color: var(--yellow);
 }
 
@@ -247,7 +247,7 @@ header .navbar ul li a:hover {
 }
 
 .Education .box-container .box {
-    width: 27rem;
+    width: 25rem;
     margin: 4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
@@ -307,7 +307,7 @@ header .navbar ul li a:hover {
     height: 20rem;
     width: 26rem;
     border-radius: 1rem;
-    margin: 2rem;
+    margin: 1rem;
     overflow: hidden;
     cursor: pointer;
 }
@@ -393,7 +393,7 @@ header .navbar ul li a:hover {
 
 .top{
     position: fixed;
-    bottom:7.5rem; right: 2rem;
+    bottom: 0.1rem; right: 0.1rem;
     z-index: 100;
     display: none;
 }
