@@ -192,7 +192,7 @@ header .navbar ul li a:hover {
 .About .row .info {
     flex: 1 1 48rem;
     padding: 2rem 1rem;
-    padding-left: 6rem;
+    padding-left: 1rem;
 }
 
 .About .row .info h3 {
@@ -208,7 +208,7 @@ header .navbar ul li a:hover {
 }
 
 .About .row .counter {
-    flex: 1 1 48rem;
+    flex: 1 1 40rem;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
